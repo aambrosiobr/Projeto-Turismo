@@ -1,14 +1,24 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
 #local {
   box-sizing: border-box;
-  width: 1280px;
-  height: 3279px;
+  width: 1120px;
+  height: 3823px;
   margin: 88px auto 137px;
+}
+
+main {
+  width: 1120px;
+  height: 3823px;
 }
 
 #container {
   background-color: blue;
-  width: 280px;
-  height: 379px;
+  width: 1120px;
+  height: 3823px;
 }
 headline {
   color: #e1624f;
@@ -27,4 +37,11 @@ img {
   height: 660px;
   border-radius: 28px;
   margin-top: 40px;
+  margin-bottom: 24px;
+}
+
+subtitle {
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
 }
