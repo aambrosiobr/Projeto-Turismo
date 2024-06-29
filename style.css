@@ -75,10 +75,11 @@ p {
 }
 
 .paragrafo-color {
-  color: blue;
+  color: #0c51a7;
   font-weight: bold;
   margin-bottom: 48px;
-  display: block;
+
+  /* achar como espaçar entre o texto e imagem */
 }
 
 .texto {
