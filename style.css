@@ -1,3 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -20,13 +26,15 @@ main {
   width: 1120px;
   height: 3823px;
 }
-headline {
+
+h3 {
   color: #e1624f;
   font-size: 16px;
   font-weight: bold;
+  margin-bottom: 8px;
 }
 
-h1 {
+title {
   color: #1b1b1b;
   font-size: 36px;
   font-weight: bold;
@@ -41,7 +49,10 @@ img {
 }
 
 subtitle {
+  color: #333333;
   font-size: 16px;
-  font-style: italic;
-  text-align: center;
+  font-weight: lighter;
+  font-style: italic center;
 }
+
+/* tentado centralizar texto do subtitle */
