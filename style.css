@@ -12,19 +12,19 @@ body {
 #local {
   box-sizing: border-box;
   width: 1120px;
-  height: 3823px;
+  height: 3054px;
   margin: 88px auto 137px;
 }
 
 main {
   width: 1120px;
-  height: 3823px;
+  height: 3054px;
 }
 
 #container {
   background-color: blue;
   width: 1120px;
-  height: 3823px;
+  height: 3054px;
 }
 
 headline {
@@ -134,4 +134,19 @@ h3 {
   width: 100%;
   border-top: 1px solid #d9d9d9;
   margin: 40px auto 40px;
+}
+
+#description {
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 40px;
+}
+
+footer {
+  color: #333333;
+  text-align: center;
+  margin-bottom: 48px;
 }
