@@ -48,11 +48,12 @@ img {
   margin-bottom: 24px;
 }
 
-subtitle {
+h4 {
   color: #333333;
   font-size: 16px;
   font-weight: lighter;
-  font-style: italic center;
+  font-style: italic;
+  text-align: center;
 }
 
 /* tentado centralizar texto do subtitle */
